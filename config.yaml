@@ -1,0 +1,8 @@
+image_size: 224
+embedding_dim: 512
+temperature: 0.07
+
+vision_encoder: resnet50
+text_encoder: simple_transformer
+
+device: cuda
